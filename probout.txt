@@ -1,0 +1,1 @@
+For 23 people,  the probability for sharing a birthday is: 0.500

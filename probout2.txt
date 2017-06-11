@@ -1,0 +1,1 @@
+For 65 people,  the probability for sharing a birthday is: 0.997
